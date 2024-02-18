@@ -1,0 +1,31 @@
+.con{
+    background-color: white;
+    width: calc(100% - 15%);
+    margin-left: 7.5%;
+    height: 350px;
+    margin-top: 100px;
+    display: flex;
+    // overflow-x: scroll;
+}
+
+.page{
+    width: calc(100vw - 15%);
+    height: 100%;
+    transition: width 2s;
+
+}
+
+#one{
+    // display: block;
+    background-color: red;
+}
+
+#two{
+    // display: none;
+    background-color: green;
+}
+
+#three{
+    // display: none;
+    background-color: blue;
+}

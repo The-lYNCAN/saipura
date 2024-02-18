@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+.con{
+    margin-top: 6%;
+    h1{
+        text-align: center;
+        color: #525CEB;
+        font-size: 1rem;
+        color: #525CEB;
+        font-family: "Open Sans", sans-serif;
+
+    }
+    h2{
+        color: #525CEB;
+        text-align: center;
+        font-family: "Rubik", sans-serif;
+
+    }
+    p{
+        color: #BFCFE7;
+        width: 100%;
+        text-align: center;
+        font-family: "Open Sans", sans-serif;
+
+    }
+    h4{
+        margin-top: 300px;
+        color: #525CEB;
+        text-align: center;
+        font-family: "Rubik", sans-serif;
+        font-size: 1.3rem;
+
+    }
+    #body{
+        color: #BFCFE7;
+        text-align: center;
+        font-family: "Open Sans", sans-serif;
+
+    }
+    button{
+        border: none;
+        width: 105px;
+        height: 40px;
+        font-size: 1rem;
+        background-color: blue;
+        color: white;
+        margin-left: calc((50% - 52.5px));
+    }
+}
+
+.boxCon{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3%;
+}
